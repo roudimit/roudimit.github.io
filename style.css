@@ -1,0 +1,89 @@
+h1 {
+    font-family:Montserrat;
+    font-weight: normal;
+    font-size: 54;
+}
+h3, h2 {
+    font-family:Montserrat;
+    font-weight: normal;
+}
+
+.publication td {
+    max-height:250px;
+    /* font-family: 'Crimson Text'; */
+    font-family:Montserrat;
+    font-weight: normal;
+    padding: 12px;
+    /* text-align: center; 
+    vertical-align: middle; */
+}
+
+img {
+    /* max-width: inherit; */
+    /* max-height: 50vh;
+    max-height: inherit; */
+    height: 175px;
+    width: auto;
+}
+
+/* img {
+    width: 5%;
+    max-height: 100vh;
+    height: auto;
+} */
+/* img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 100%;
+} */
+
+p {
+    font-family:Montserrat;
+    line-height:25px;
+}
+a {
+    color:blue;
+    text-decoration: none;
+}
+
+/* .center-align {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+
+.fa-github:hover {
+    color:darkorchid;
+}
+
+.fa-linkedin:hover {
+    color: darkblue;
+}
+
+.fa-envelope:hover {
+    color: green;
+}
+
+/* a:link {
+    color:lightblue;
+    text-decoration: none;
+}
+  
+a:visited {
+    color:lightblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color:lightblue;
+    text-decoration: underline;
+}
+  
+a:active {
+    color:lightblue;
+    text-decoration: none;
+} */
+
